@@ -12,7 +12,7 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
 &nbsp;
 
 <h3 >
-  Pinout:
+  Pinout Sketch:
 </h3>
 
 <p align="center">
