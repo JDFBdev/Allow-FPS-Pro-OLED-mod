@@ -5,13 +5,13 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
 <p align="center">
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/Asset/ezgif.com-gif-maker.gif" width="90%" title="portrait">
 </p>
-<h3 >
+<h3 align="center">
   I really like my keyboard, but i wanted it to have a volume knob and a satisfying animation... So i got to it.
 </h3>
 
 &nbsp;
 
-<h3 >
+<h3 align="center">
   Pinout Sketch:
 </h3>
 
@@ -21,7 +21,7 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
 
 &nbsp;
 
-<h3 >
+<h3 align="center">
   3D Models and Assembly:
 </h3>
 
@@ -33,8 +33,8 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
 
 &nbsp;
 
-<h3 >
+<h4 align="center">
   Sadly this isn't a build log, but just a showcase. I had to go through some troubles to get the cables out of the keyboard wich i believe could compromise other users keyboards. I also believe in order to put this project out for anyone to build, it would require some more testing with the 3D parts (wich is hard for me since i don't own a printer) and there should be a more efficient way to manage the cables since adding stuff inside a very tigthly build product can have it's complications. Have a good one!
-</h3>
+</h4>
 
 
