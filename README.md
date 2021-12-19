@@ -5,8 +5,11 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
 <p align="center">
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/Asset/ezgif.com-gif-maker.gif" width="90%" title="portrait">
 </p>
+<h3 >
+  I really like my keyboard, but i wanted it to have a volume knob and a satisfying animation... So i got to it.
+</h3>
 
-I really like my keyboard, but i wanted it to have a volume knob and a satisfying animation... So i got to it.
+&nbsp;
 
 <h3 >
   Pinout:
@@ -15,6 +18,8 @@ I really like my keyboard, but i wanted it to have a volume knob and a satisfyin
 <p align="center">
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/Pinout/Captura%20de%20pantalla%202021-12-19%20180723.png" width="50%" >
 </p>
+
+&nbsp;
 
 <h3 >
   3D Models and Assembly:
@@ -25,6 +30,8 @@ I really like my keyboard, but i wanted it to have a volume knob and a satisfyin
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/3d/Captura%20de%20pantalla%202021-12-19%20175729.png" width="30%" >
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/3d/Captura%20de%20pantalla%202021-12-19%20175808.png" width="30%" >
 </p>
+
+&nbsp;
 
 <h3 >
   Sadly this isn't a build log, but just a showcase. I had to go through some troubles to get the cables out of the keyboard wich i believe could compromise other users keyboards. I also believe in order to put this project out for anyone to build, it would require some more testing with the 3D parts (wich is hard for me since i don't own a printer) and there should be a more efficient way to manage the cables since adding stuff inside a very tigthly build product can have it's complications. Have a good one!
