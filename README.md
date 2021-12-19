@@ -6,7 +6,7 @@ HyperX Alloy FPS Pro OLED and Volume Knob Mod (Prototype Showcase)
   <img src="https://github.com/JDFBdev/Allow-FPS-Pro-OLED-mod/blob/main/Asset/ezgif.com-gif-maker.gif" width="90%" title="portrait">
 </p>
 
-I really like my keabord, but i wanted it to have a volume knob and a satisfying animation... So i got to it and i'm gonna show you how.
+I really like my keyboard, but i wanted it to have a volume knob and a satisfying animation... So i got to it.
 
 <h3 >
   Pinout:
